@@ -115,7 +115,7 @@ function ProductDetail() {
 
      <div className='w-[80%] md:h-[150px] h-[220px] bg-[#3336397c] border text-white text-[13px] md:text-[15px] lg:text-[20px] px-[10px] md:px-[30px] lg:ml-[100px] ml-[20px]'>
         <p className='w-[95%] h-[90%] flex items-center justify-center '>
-      Upgrade your wardrobe with this stylish slim-fit cotton shirt, available now on OneCart. Crafted from breathable, high-quality fabric, it offers all-day comfort and effortless style. Easy to maintain and perfect for any setting, this shirt is a must-have essential for those who value both fashion and function.</p>
+      Refresh your wardrobe with this sleek slim-fit cotton shirt, now available on Mercenta. Made from breathable, premium-quality fabric, it delivers all-day comfort with effortless style. Easy to care for and perfect for any occasion, it’s a must-have for those who appreciate both fashion and function.</p>
      </div>
 
      <RelatedProduct category={productData.category} subCategory={productData.subCategory} currentProductId={productData._id}/>
